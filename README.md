@@ -6,17 +6,16 @@ I'm a developer passionate about building clean, scalable, and impactful softwar
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **TypeScript** and **Cloud Technologies**
-- 🛠️ Working with **JavaScript**, **Node.js**, **React**, and **Python**
+- 🛠️ Working with **Spring Boot**, **Nest.js**, **React**, **Next.js**, and **Other**
 - 💡 Always exploring new tools and improving my developer workflow
 - 📫 Reach me on [Portfolio](https://www.samrach.pro) or open an issue on any repo!
 
 ## 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
