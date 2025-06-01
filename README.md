@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working with **Spring Boot**, **Nest.js**, **React**, **Next.js**, and more
 - 🧠 Always learning and exploring new tools and tech
-- 🌍 Visit my website: [![Website](https://img.shields.io/badge/malegend.samrach.pro-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://malegend.samrach.pro)
+- 🌍 Visit my website: [![Website](https://img.shields.io/badge/www.samrach.pro-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.samrach.pro/)
 - 📬 Reach me via GitHub or my website for collaboration!
 
 ---
