@@ -8,7 +8,7 @@ I'm a developer passionate about building clean, scalable, and impactful softwar
 
 - 🛠️ Working with **Spring Boot**, **Nest.js**, **React**, **Next.js**, and **Other**
 - 💡 Always exploring new tools and improving my developer workflow
-- 📫 Reach me on [Portfolio](https://www.samrach.pro) or open an issue on any repo!
+- 📫 Reach me on [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://yourwebsite.com)
 
 ## 🧰 Tech Stack
 
